@@ -2,8 +2,8 @@ let str="aman";
 
 function reverse(){
     let bag="";
-    for(let i=string.length-1;i>=0;i--){
-        bag=bag+string[i];
+    for(let i=str.length-1;i>=0;i--){
+        bag=bag+str[i];
     }
     return bag;
 }
